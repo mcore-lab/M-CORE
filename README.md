@@ -11,3 +11,6 @@ and governance architectures for large language models (LLMs).
 
 This repository documents high-level methodological principles.
 Implementation details are intentionally withheld.
+
+## Legal & Prior Art
+See DISCLOSURE.md for prior art disclosure and methodological scope.
